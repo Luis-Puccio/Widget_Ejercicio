@@ -13,14 +13,14 @@
     {
       "kind": "main",
       "tag": "com-luis-puccio-sap-sac-excel",
-      "url": "https://luis-puccio.github.io/widget_excel/excel.js",
+      "url": "https://luis-puccio.github.io/Widget_Ejercicio/excel.js",
       "integrity": "",
       "ignoreIntegrity": true
     },
     {
       "kind": "styling",
       "tag": "com-luis-puccio-sap-sac-excel-aps",
-      "url": "https://luis-puccio.github.io/widget_excel/aps_excel.js",
+      "url": "https://luis-puccio.github.io/Widget_Ejercicio/aps_excel.js",
       "integrity": "",
       "ignoreIntegrity": true
     }
